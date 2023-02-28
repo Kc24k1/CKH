@@ -13,3 +13,10 @@ But there will be a pop up pox saying This is made by ck73 And all you need to d
 After you do that The AI will start typing and it will answer questions and pop up buttons.
 README.md
 If the javascript doesnt work we will invite you to a dicord server shortly. And it will redirect you to a different website.
+
+
+
+
+
+RAW LINK :
+https://raw.githubusercontent.com/Kc24k1/CKH/main/README.md
